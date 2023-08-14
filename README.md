@@ -83,3 +83,9 @@
 | ------------ | ------------ |
 | ![오래된순조회](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/fd1001c7-059d-4a25-ba27-687a9e7059c5)| ![최신순으로조회](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/93ff57d3-e955-456d-81e8-d49bdb8326e2) |
 
+### 모바일 환경(반응형 디자인)
+| 메인화면 | 커뮤니티 화면 |
+| ------------ | ------------ |
+| ![모바일1](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/b208b294-f96b-41c0-86dc-98f320b1f1b8)| ![모바일2](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/1582cebf-b468-4a8e-8d89-27f9e4f07fc5)) |
+
+
