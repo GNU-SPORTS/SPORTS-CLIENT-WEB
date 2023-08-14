@@ -1,5 +1,31 @@
 # Feat : 체육관 서비스 Ver 0.0.1
 
+### 경상국립대학교 체육시설 예약과 커뮤니티 통합 웹 사이트 제작
+
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<br>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+	<br>
+</div>
+<br>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+	<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</div>
+
 ## 주요 서비스
 
 ### 로그인,회원가입
@@ -53,7 +79,7 @@
 | ![댓글보기](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/b4a78094-4bba-407a-b0c6-cb02e64b418b) | ![댓글수정](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/4738f56e-9b24-4cfb-b987-58da7f346284) | ![검색결과창](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/5da37b92-af30-4bd5-9c4e-d03e7cf79ab3) |
 
 ### 오래된순, 최신순 조회 화면
-| 오래된순 | 최신순 조회 화면 |
+| 오래된순 조회 | 최신순 조회 |
 | ------------ | ------------ |
 | ![오래된순조회](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/fd1001c7-059d-4a25-ba27-687a9e7059c5)| ![최신순으로조회](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/93ff57d3-e955-456d-81e8-d49bdb8326e2) |
 
