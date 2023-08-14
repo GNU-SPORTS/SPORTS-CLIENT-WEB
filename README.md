@@ -1,2 +1,2 @@
 # SPORTS-CLIENT-WEB
-리액트를 활용한 SPA 웹
+협업 프로젝트(React_JS)
