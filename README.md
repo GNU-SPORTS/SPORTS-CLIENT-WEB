@@ -5,7 +5,7 @@
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
 	<br>
-	<p>✨ Platforms & Languages ✨</p>
+	<p>✨ Front-End ✨</p>
 </div>
 <div align="center">
 	<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </div>
 
-## 주요 서비스
+## 구현 화면
 
 ### 로그인,회원가입
 | 로그인 | 회원가입 |
