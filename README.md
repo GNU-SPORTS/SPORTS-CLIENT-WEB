@@ -3,6 +3,9 @@
 ### 경상국립대학교 체육시설 예약과 커뮤니티 통합 웹 사이트 제작
 <br>
 
+### 팀프로젝트 공유 레포지토리 : https://github.com/GNU-SPORTS
+<br>
+
 ## 🌟 목차 🌟
 - 기술스택
 - 프론트엔드 개발 세부 내용
@@ -239,27 +242,15 @@ const handleKeyPress = (event) => {      // 로그인버튼을 눌렀을 때 작
 <br>
 
 ### - 메인화면
-| 메인화면 |
-| ------------ | 
-| ![메인화면](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/ff245a04-1ed3-46e6-b5e4-2fa41b98534b)| 
+| 메인화면 | 지도 마커클릭 |
+| ------------ |  ------------- |
+| ![메인화면](https://github.com/juni0914/caps2023_front/assets/100837725/b02ebbb5-fc54-4a5e-b459-e3ed8f1504c0)| ![마커클릭화면](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/19d4a985-b5e8-4a72-b846-f8d1d8ebe9ca)| 
 <br>
 
-### - 지도 마커클릭
-| 지도 마커클릭 |
-| ------------ | 
-| ![마커클릭화면](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/19d4a985-b5e8-4a72-b846-f8d1d8ebe9ca)| 
-<br>
-
-### - 예약창, 예약정보
-| 예약창 | 예약정보 |
-| ------------ | ------------- |
-| ![예약창](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/370b9b8b-7d3b-4019-90e5-f30015d3501a)| ![예약 상세정보](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/b0ac9a1e-b1e1-484b-9ca6-4ff181845748) |
-<br>
-
-### - 내 정보, 만료된 예약 정보
-| 내 정보 |  만료된 예약 정보 |
-| ------------ | ------------- |
-| ![내정보](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/fdb95965-22bc-4474-8a65-7f8c9926c4e7) | ![만료된예약](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/358a31d1-d5a7-44bb-9fcd-1a98f4d8c16f) |
+### - 예약창, 예약정보, 내 정보, 만료된 예약 정보
+| 예약창 | 예약정보 | 내 정보 |  만료된 예약 정보 |
+| ------------ | ------------- | ------------ | ------------- |
+| ![예약창](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/370b9b8b-7d3b-4019-90e5-f30015d3501a)| ![예약 상세정보](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/b0ac9a1e-b1e1-484b-9ca6-4ff181845748) | ![내정보](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/fdb95965-22bc-4474-8a65-7f8c9926c4e7) | ![만료된예약](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/358a31d1-d5a7-44bb-9fcd-1a98f4d8c16f) |
 <br>
 
 ### - 닉네임 변경,포인트 충전
@@ -268,16 +259,10 @@ const handleKeyPress = (event) => {      // 로그인버튼을 눌렀을 때 작
 | ![닉네임변경](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/a8eef108-2052-49bd-a7b7-ffdb010d66f9) | ![포인트충전](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/d25a6931-f255-484e-aefc-cb48eaa37cab) |
 <br>
 
-### - 커뮤니티 메인
-| 커뮤니티 메인 |
-| ------------ |
-| ![커뮤니티메인](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/26da1d87-d355-4fef-bbe2-73426ae7c46a)| 
-<br>
-
-### - 내가 작성한 게시글, 내가 댓글단 글
-|  내가 작성한 게시글 | 내가 댓글단 글 |
-| ------------ | ------------- |
-| ![내가 작성한 게시글](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/144a2f19-b24e-4768-a675-f6f38b634a70) | ![내가 댓글단 글](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/73e29a8d-3a4f-4568-8a47-92bb6b933354) |
+### - 커뮤니티 메인, 내가 작성한 게시글, 내가 댓글단 글
+| 커뮤니티 메인 |  내가 작성한 게시글 | 내가 댓글단 글 |
+| ------------ | ------------ | ------------- |
+| ![커뮤니티메인](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/26da1d87-d355-4fef-bbe2-73426ae7c46a)|  ![내가 작성한 게시글](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/144a2f19-b24e-4768-a675-f6f38b634a70) | ![내가 댓글단 글](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/73e29a8d-3a4f-4568-8a47-92bb6b933354) |
 <br>
 
 ### - 게시글 작성, 게시글 수정, 클릭한 게시글 조회
@@ -302,5 +287,6 @@ const handleKeyPress = (event) => {      // 로그인버튼을 눌렀을 때 작
 | 메인화면 | 커뮤니티 화면 |
 | ------------ | ------------ |
 | ![모바일1](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/b208b294-f96b-41c0-86dc-98f320b1f1b8)| ![모바일2](https://github.com/GNU-SPORTS/SPORTS-CLIENT-WEB/assets/100837725/1582cebf-b468-4a8e-8d89-27f9e4f07fc5) |
+
 
 
